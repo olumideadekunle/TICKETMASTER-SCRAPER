@@ -26,7 +26,7 @@ This project is a Python-based web scraper that extracts production data for cur
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/your-username/broadway-shows-scraper.git
+git clone https://github.com/olumideadekunle/broadway-shows-scraper.git
 cd broadway-shows-scraper
 ```
 
