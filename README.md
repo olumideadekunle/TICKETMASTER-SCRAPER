@@ -1,11 +1,11 @@
 
-# 🎭 Broadway Shows Scraper
+#  Broadway Shows Scraper
 
 This project is a Python-based web scraper that extracts production data for current Broadway shows listed on [IBDB.com](https://www.ibdb.com/shows). It collects show titles, dates, venues, categories, images, and links to full show details, then stores the structured data in a CSV file.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Extracts real-time show data including:
   - Show Title
@@ -21,7 +21,7 @@ This project is a Python-based web scraper that extracts production data for cur
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone or Download
 
@@ -71,7 +71,7 @@ If the file exists, only new shows will be appended (duplicates are ignored).
 
 ---
 
-## ⏰ Automation (Optional)
+##  Automation (Optional)
 
 You can schedule this script to run daily using:
 
@@ -88,7 +88,7 @@ with open("log.txt", "a") as log:
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. Launches a Selenium Chrome browser.
 2. Navigates to the [IBDB shows page](https://www.ibdb.com/shows).
@@ -101,16 +101,16 @@ with open("log.txt", "a") as log:
 
 ---
 
-## 🤖 Ethical Scraping & Limitations
+##  Ethical Scraping & Limitations
 
 - Includes delays between requests (`time.sleep(5)`) to avoid hammering the server.
 - Uses browser-based scraping to stay within site rendering patterns.
 - Avoids frequent or high-volume scraping.
-- **⚠️ Always respect site terms of service.**
+- ** Always respect site terms of service.**
 
 ---
 
-## 📂 File Structure
+##  File Structure
 
 ```
 broadway-shows-scraper/
@@ -122,9 +122,9 @@ broadway-shows-scraper/
 
 ---
 
-## 📧 Contact
+##  Contact
 
 For feedback, issues, or contributions, please contact:
 
 **Olumide Adekunle Buari**  
-📫 your-email@example.com
+Email: olumidebadekunle@gmail.com
