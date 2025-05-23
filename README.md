@@ -126,5 +126,5 @@ broadway-shows-scraper/
 
 For feedback, issues, or contributions, please contact:
 
-**Olumide Adekunle Buari**  
+##  Olumide Adekunle Buari 
 
